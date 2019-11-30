@@ -11,13 +11,12 @@ public class Practise1 {
                     System.out.print("Hello ");
                 } else {
                     if ((i % 5) == 0) {
-                        System.out.print("World");
+                        System.out.print("World ");
                     } else {
                         System.out.print(i + " ");
                     }
                 }
             }
-
         }
     }
 }
